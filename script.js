@@ -5,6 +5,6 @@ function login()
   if (u=="hieu" && p=="123")
   {
     window.open("home.html")
-    document.getElementById(compiler).style.display="block"
+    
   }
 }
