@@ -1,10 +1,11 @@
 function login()
 {
+  document.getElementById(compiler).style.display="block"
   let u = username.value
   let p = pw.value
-  if (u=="hieu" && p=="123")
+  if (u=="thanhphu" && p="123")
   {
-    window.open("home.html")
+    window.open()
     
   }
 }
